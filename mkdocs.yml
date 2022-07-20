@@ -1,0 +1,39 @@
+site_name: CubeChain docs
+site_url: https://docs.cube.network
+site_author: CubeChain
+repo_url: https://github.com/cube-network/docs
+theme:
+    name: material
+    favicon: images/favicon.png
+    logo: images/favicon.png
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+        - javascript
+        - shell
+nav:
+    - About Cube: index.md
+    - Tutorials: tutorial.md
+    - Wallet: wallet.md
+    - Bridge: bridge.md
+    - Consensus: consensus.md
+    - Genesis: genesis.md
+    - Developers:
+      - Compile and Run: dev/install.md
+      - Deployment: dev/deploy.md
+      - On-chain Interaction: dev/sdk.md
+      - About EIP1559: dev/about-eip1559.md
+      - About Finality: dev/about-finality.md
+      - Contract: dev/contract.md
+      - Private Chain: dev/private_chain.md
+      - Graph Node: dev/graphnode.md
+      - Mainnet: mainnet.md
+      - Testnet: testnet.md
+      - DApp-Governance: dev/dapp-gov.md
+      - WalletConnect: dev/wallet-connect.md
+      - Whitelist Application: dev/white-application.md
+      - Price Oracle: dev/price-oracle.md
+    - Announcement: Announcement.md
+    - FAQ: faq.md
+    - Disclaimer: disclaimer.md

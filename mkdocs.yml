@@ -1,7 +1,7 @@
 site_name: CubeChain docs
 site_url: https://docs.cube.network
 site_author: CubeChain
-repo_url: https://github.com/cube-network/docs
+repo_url: https://github.com/cube-network/cube-docs
 theme:
     name: material
     favicon: images/favicon.png

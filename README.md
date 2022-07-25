@@ -14,9 +14,9 @@ Commands
 
 Resources list：
 
-### [Mainnet Info](./contents/mainnet.md)
+### [Mainnet Info](./docs/mainnet.md)
 
-### [Testnet Info](./contents/testnet.md)
+### [Testnet Info](./docs/testnet.md)
 
 ### Tech Support And Help
 

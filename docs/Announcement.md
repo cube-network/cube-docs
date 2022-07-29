@@ -34,34 +34,3 @@ The first batch of supported currencies: BTC/ETH/USDT/USDC/DAI
 
 
 Note: deposite the CUBE into the WCUBE contract can be wrapped as wcube, and vice versa.
-
-You can transfer assets to Cube network in the following ways:
-
-Option 1: Deposit and withdrawal in centralized exchange to transfer assets between different chains.  
-Huobi Global: www.huobi.com  
-Token contract information is the same as above.
-
-
-Option 2: Transfer assets on the decentralized cross-chain platform.  
-1.iSwap: www.iswap.com（coming soon）
-
-The first batch of supported currencies: BTC/ETH/USDT/USDC  
-Supported networks: 15  
-Token contract information is the same as above.
-
-2. O3Swap: <https://v2.o3swap.com> (Already supported）
-
-The first batch of supported currencies: BTC/ETH/USDT/USDC/DAI
-
-* USDT:ETH, BSC,Arbitrum, Polygon,Cube
-* USDC:ETH,BSC,Polygon,Arbitrum,Fantom,Optimism,Gnosis,Cube
-* ETH:ETH,BSC,Polygon,Arbitrum,Fantom,Optimism,Gnosis,Cube
-* DAI:ETH,Polygon,Arbitrum,Fantom,Optimism,Gnosis,Cube
-* BTC:ETH,BSC,Arbitrum,Cube
-
-Token contract information is the same as above.
-
-More popular exchanges and decentralized cross-chain products will gradually open the Cube network. For more information:  
-<https://www.cube.network>  
-<https://twitter.com/Cube0x>  
-<https://t.me/Cube_network3>

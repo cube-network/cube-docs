@@ -23,9 +23,6 @@ add custom network manually:
 ```
 https://http-mainnet.cube.network
 
-https://http-mainnet-sg.cube.network 
-
-https://http-mainnet-us.cube.network
 ```
 
 ### explorer
@@ -46,9 +43,6 @@ https://www.cubescan.network
 
 ```
 https://http-testnet.cube.network
-https://http-testnet-sg.cube.network
-https://http-testnet-jp.cube.network
-https://http-testnet-us.cube.network
 ```
 ### explorer
 ```

@@ -12,12 +12,6 @@
 https://http-mainnet.cube.network
 wss://ws-mainnet.cube.network
 
-https://http-mainnet-sg.cube.network 
-wss://ws-mainnet-sg.cube.network
-
-https://http-mainnet-us.cube.network
-wss://ws-mainnet-us.cube.network
-
 ```
 
 ## archive nodes
